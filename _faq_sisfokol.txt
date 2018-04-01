@@ -1,0 +1,125 @@
+F.A.Q SISFOKOL
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Apa Itu SISFOKOL ?
+
+SISFOKOL adalah Sistem Informasi Sekolah, yang mempunyai konsep OPEN SOURCE berdasarkan pada FREEDOM SOFTWARE dengan layanan berbayar (komersial).
+
+
+
+FREE SOFTWARE tidak sama dengan FREEWARE(Gratis)
+
+FREE SOFTWARE yang juga sering disebut FREEDOM SOFTWARE, tidak punya arti yang sama maupun ada kaitan dengan FREEWARE(Gratis). Kata 'FREE' disini lebih ditekankan pada 'FREEDOM' atau 'Bebas'. Kebebasan ini lebih dari sekedar FREEWARE atau gratis, tapi juga kebebasan dalam lisensi, kebebasan dalam mengembangkan lagi, kebebasan dalam modifikasi, kebebasan dalam duplikasi dan distribusi, dan sebagainya. Silahkan lihat bagian FILOSOFI.
+
+
+
+Lisensi Apa Yang Dianut ?
+
+Yang kami anut adalah GNU/GPL Version 2, June 1991.
+
+
+
+Seperti Apa Sistem Informasinya ?
+
+Sistem informasi ini berbasis Web. Menggunakan teknologi PHP dengan database MySQL. Sehingga untuk instalasi dan menjalankannya dibutuhkan sebuah Web Server seperti Apache yang telah ter-Plugin PHP, MySQL Server dan PhpMyAdmin untuk meng-Import Database-nya. Karena berbasis Web, sehingga bisa dipasang pada berbagai jenis Sistem Operasi. Yang pasti harus menggunakan sebuah browser seperti FireFox, IE atau lainnya.
+
+
+
+Apakah Ini Program Jadi ?
+
+Kami tidak pernah menyediakan atau menyebut proyek - proyek atau hasil karya yang ada disini adalah program atau produk jadi. Sebab yang ada disini adalah segala hal yang masih dimungkinkan untuk dikembangkan secara terus - menerus. Pengembangan tersebut tidak hanya dilakukan oleh kami saja, tapi Anda pun bisa mengembangkan sendiri. Kecuali jika Anda kesulitan untuk mengembangkan lebih lanjut, atau ada spesifikasi khusus yang perlu ditambahkan (kastumisasi), maka pengerjaan tersebut akan dikenakan biaya, yang kesepakatannya bisa dibicarakan lebih lanjut.
+
+
+
+Bagaimana Jika Ada Yang Menginginkan Spesifikasi Khusus atau Kastumisasi ?
+
+Bagi yang punya keinginan seperti ini, berarti telah menganggap proyek - proyek disini adalah suatu sampel. Karena membutuhkan spesifikasi khusus, kami bisa mempertimbangkannya. Tentu saja akan dikenai dengan biaya kastumisasi, yang besarnya sesuai dengan kesepakatan.
+
+
+
+Apakah Tidak Merusak Tatanan Usaha Software Lainnya ?
+
+Menurut kami, kami tidak merusak tatanan yang ada. Walau konsep kami terasa ekstrem bagi kalangan pengusaha software di Indonesia, tapi kami telah mengambil pilihan. Sebab rejeki dan gaya bisnis memang mempunyai jalur yang berbeda - beda. Lisensi software pun bermacam - macam, jadi ini adalah salah satu dari beragam pilihan yang bisa dipilih oleh para konsumen/netter/pemakai. Jikalau memang tidak menyukai yang FREE SOFTWARE, Anda pun bisa mengambil layanan kastumisasi untuk kebutuhan sendiri yang tentunya akan memberikan kepuasan tersendiri. Dan bila Anda tidak menyukai proyek - proyek yang ada disini, Anda bisa beralih ke tempat lain tanpa ada beban dan tanggungan dari kami.
+
+
+
+Bagaimana Donasinya ?
+
+Anda dapat melakukan Donasi/Sumbangan, jika ternyata produk kami tersebut, terasa sangat membantu, bermanfaat dan percaya kepada kami. Khususnya bagi mereka yang menerapkan SISFOKOL pada sekolah yang bersangkutan dan berhasil. Dan juga mengambil layanan kastumisasi, agar SISFOKOL bisa seperti yang diinginkan pihak sekolah. Besarnya donasi sekitar Rp. 2.000.000,00 (DUA JUTA RUPIAH). (Berlaku mulai Pebruari 2012).
+
+
+Kirimkan donasi tersebut via rekening :
+BANK MANDIRI Cab. PEMUDA Semarang,
+A/N : AGUS MUHAJIR,
+No. Rek : 135-00-0403665-1. 
+
+Bila donasi telah dikirim, segeralah konfirmasi via email : hajirodeon@yahoo.com,  hajirodeon@gmail.com atau HP/SMS : (081)829-88-54.
+
+selain itu juga, donasi juga bisa dengan membeli paket souvenir yang ada. dan juga, donasi yang anda berikan bisa berupa space hosting sebagai mirror server, agar SISFOKOL juga bisa dengan mudah diunduh oleh teman - teman yang lain.
+
+
+
+Untuk Apa Donasi Tersebut ?
+
+Donasi yang ada akan digunakan untuk segala kebutuhan pengembangan Sistem Informasi dan biaya operasional lainnya.
+
+
+
+Apa Saja Layanannya ?
+
+Paket Kastumisasi. Suatu perubahan pada konten, agar SISFOKOL bisa sesuai dengan sistem dan keinginan pihak sekolah. Dikenakan biaya donasi sebesar Rp. 5.000.000,00 (LIMA JUTA RUPIAH). Pengerjaan selama 1(SATU) bulan. Pembayaran 1(SATU) kali. Pekerjaan dan revisi dikirimkan via email tiap minggu, sampai selesai. Garansi 12(DUA BELAS) bulan.
+
+Paket Garansi. Suatu garansi 12(DUA BELAS) bulan, dengan banyak perbedaan daripada versi freedom download. Besarnya donasi, Rp.500.000,00 (LIMA RATUS RIBU RUPIAH)
+
+Paket E-Book Penggunaan. Berupa bundle Paket CD, yang berisi E-Book Penggunaan dan source code SISFOKOL versi Freedom Download. Besarnya donasi, Rp.100.000,00 (SERATUS RIBU RUPIAH).
+
+
+
+
+Jikalau Tidak Menyukai Layanan Yang Ada, Bagaimana ?
+
+Kami berusaha untuk memberikan kepuasan pelanggan semaksimal mungkin, tapi jikalau kondisinya sudah berubah dan apa yang kami lakukan tidak bisa memberikan porsi yang optimal, maka Anda bisa mempercayakan kepada pengusaha software lain atau rekan lain yang bisa memenuhi harapan Anda.
+
+
+
+Kapan Suatu Versi Terbaru Diturunkan ?
+
+Setiap aplikasi atau sistem informasi, tentu melalui tahap penyempurnaan terus - menerus. Versi terbaru segera diturunkan setelah mendapatkan masukan, saran dan laporan bugs dari para pemakai. Rilis rutin sekitar tiap tahun sekali.
+
+
+
+Sampai Kapan Proyek Ini Berakhir ?
+
+Proyek ini tidak akan pernah berakhir, akan berjalan terus. Bahkan akan selalu bermunculan inovasi - inovasi baru.
+
+
+
+Apa Target Yang Ingin Dicapai atau cita - citanya ?
+
+Kami mempunyai target atau cita - cita agar semua pengguna komputer baik untuk kebutuhan perseorangan maupun kelompok, dalam penggunaan rumahan sampai dengan instansi formal maupun tidak formal, menggunakan Sistem Informasi OPEN SOURCE yang berdasarkan pada FREE SOFTWARE.
+
+
+
+Mungkinkah Suatu Saat Tidak Gratis Lagi ?
+
+Tidak. Selamanya project - project yang ada disini adalah gratis dan bebas. Yang tidak gratis dan tidak bebas, hanyalah pada layanan dan kastumisasi.
+
+
+
+Yang Terakhir, Seperti Apa Filosofinya...?
+
+    * Setiap pengguna komputer, seharusnya mendapat kebebasan untuk menjalankan, meng-copy, 
+		mendistribusikan, mempelajari, berbagi, melakukan perubahan dan meningkatkan software 
+		mereka untuk banyak tujuan, tanpa harus membayar lisensi.
+
+    * Setiap pengguna komputer, seharusnya diberikan kesempatan yang sama untuk menggunakan software, 
+		meskipun mereka bekerja dalam kondisi ketidakmampuan, keterpurukan, kegagalan atau cacat.
+
+    * Setiap pengguna komputer, seharusnya tahu dan mengerti tentang makna dari Copyleft dan GNU/GPL.
+
+    * Setiap pengguna komputer, seharusnya tahu dan mengerti bahwa ilmu pengetahuan adalah milik 
+		bersama. Dan tidak akan berkurang walau telah diberikan kepada siapapun, justru pengetahuan 
+		akan semakin bertambah.
+
+    * Setiap pengguna komputer, seharusnya tahu dan mengerti bahwa dengan mengamalkannya secara 
+		ikhlas, berarti termasuk Ibadah.

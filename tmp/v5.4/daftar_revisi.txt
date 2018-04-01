@@ -1,0 +1,65 @@
+DAFTAR REVISI
+=============
+
+
+
+
+table yang berubah :
+	-> guru_rpp
+	-> guru_silabus
+	-> m_kurikulum
+	-> m_prog_pddkn_deskripsi
+	-> siswa_nh
+	-> siswa_tugas
+	-> siswa_praktek
+	-> siswa_folio
+	-> siswa_proyek
+
+
+
+
+folder dan file yang berubah :
+	-> /template/
+	
+	-> /inc/fungsi.php
+	-> /inc/class/PHPExcel/
+	-> /inc/class/PHPExcel/PHPExcel.php
+	
+	-> /inc/menu/admwaka.php
+	-> /inc/menu/
+	
+	-> /admwaka/sikap/
+	-> /admwaka/akad/prog_pddkn_kelas.php
+	-> /admwaka/akad/prog_pddkn_jns.php
+	-> /admwaka/akad/kurikulum.php
+	-> /admwaka/akad/guru_rpp.php
+	-> /admwaka/akad/guru_rpp_view.php
+	-> /admwaka/akad/guru_silabus.php
+	-> /admwaka/akad/guru_silabus_view.php
+	
+	-> /admgr/index.php
+	-> /admgr/bahan/
+	-> /admgr/ajar2/
+	
+	-> /admsw/sikap/
+	-> /admsw/d2/
+	-> /admsw/index.php
+	
+	-> /admortu/sikap/
+	-> /admortu/d2/
+	-> /admortu/index.php
+	
+	-> /admwk/d/
+	
+	-> /admks/lap/
+	
+
+
+
+
+
+
+
+
+
+

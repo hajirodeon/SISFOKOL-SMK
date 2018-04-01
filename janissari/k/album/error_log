@@ -1,0 +1,1 @@
+[06-Jul-2012 14:15:02 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/agusm/public_html/smk1kedungwuni/inc/fungsi.php on line 284

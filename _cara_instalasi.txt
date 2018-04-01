@@ -1,0 +1,41 @@
+CARA INSTALASI SISFOKOL
+=======================
+
+
+1. Sediakan WebServer seperti XAMPP, AppServer, LAMPP, atau lainnya.
+	yang mendukung PHP + MySQL + Apache.
+
+2. Sediakan juga, Gammu SMS Server.
+
+3. Ekstrak file paket source code SISFOKOL.
+
+4. Salin isi hasil ekstrak itu, ke folder '/var/www/' atau '/opt/lampp/htdocs/' atau lainnya.
+	sesuai dengan WebServer yang Anda gunakan.
+
+5. Jalankan PhpMyAdmin, yang ada pada WebServer Anda. 
+	Dan buatlah sebuah Database baru.
+
+6. Lakukan Import File Database, dari yang ada di folder '/db' pada folder SISFOKOL.
+
+7. Setelah berhasil di PhpMyAdmin, sekarang menuju ke folder SISFOKOL lagi.
+	untuk melakukan konfigurasi database dan path SISFOKOL.
+		Silahkan buka file /inc/config.php
+
+8. Bila sudah melakukan konfigurasi SISFOKOL, dan Database juga sudah dibuat, 
+	silahkan coba restart kembali WebServer.
+
+9. Coba jalankan WebBrowser, dengan alamat sesuai yang Anda Setting.
+	Misalkan :
+		http://localhost/
+
+
+
+
+10. Selamat Mencoba. Semoga SISFOKOL karya saya ini, bisa bermanfaat. Goodluck ;-D .
+
+
+
+
+
+-Agus Muhajir-
+OmahBIASAWAE. SISFOKOL Developer.

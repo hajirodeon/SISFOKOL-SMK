@@ -1,0 +1,35 @@
+AKSES
+=====
+
+
+
+admin
+	user : admin
+	pass : admin
+
+
+
+user selain admin dan selain siswa
+	user : 120001
+	pass : 120001
+
+
+siswa
+	user : 810001
+	pass : 810001
+
+
+
+
+
+
+cobalah untuk
+	-> tapel : 2014/2015
+
+
+
+konfigurasi, bisa cek ke file :
+	/inc/config.php
+
+
+

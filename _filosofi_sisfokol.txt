@@ -1,0 +1,18 @@
+FILOSOFI SISFOKOL 
+======================================================================================================
+
+    * Setiap pengguna komputer, seharusnya mendapat kebebasan untuk menjalankan, meng-copy, 
+		mendistribusikan, mempelajari, berbagi, melakukan perubahan dan meningkatkan software 
+		mereka untuk banyak tujuan, tanpa harus membayar lisensi.
+
+    * Setiap pengguna komputer, seharusnya diberikan kesempatan yang sama untuk menggunakan software, 
+		meskipun mereka bekerja dalam kondisi ketidakmampuan, keterpurukan, kegagalan atau cacat.
+
+    * Setiap pengguna komputer, seharusnya tahu dan mengerti tentang makna dari Copyleft dan GNU/GPL.
+
+    * Setiap pengguna komputer, seharusnya tahu dan mengerti bahwa ilmu pengetahuan adalah milik 
+		bersama. Dan tidak akan berkurang walau telah diberikan kepada siapapun, justru pengetahuan 
+		akan semakin bertambah.
+
+    * Setiap pengguna komputer, seharusnya tahu dan mengerti bahwa dengan mengamalkannya secara 
+		ikhlas, berarti termasuk Ibadah.
