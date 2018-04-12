@@ -2188,13 +2188,6 @@ if (keyCode == 13)
 
 
 
-<p>
-<a href="http://www.omahbiasawae.com/" target="_blank">OmahBIASAWAE.COM</a>
-<br>
-<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FOmahbiasawae%2F570684559728799&amp;width&amp;layout=button&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId=312487135596733" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:20px;" allowTransparency="true"></iframe>
-</p>
-
-
 
 </td>
 </tr>

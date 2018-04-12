@@ -52,9 +52,6 @@ echo '<A href="#" class="menuku" data-flexmenu="flexmenu1"><strong>SETTING</stro
 <LI>
 <a href="'.$sumber.'/adm/s/sekolah.php" title="Set Sekolah">Set Sekolah</a>
 </LI>
-<LI>
-<a href="http://omahbiasawae.com/user_sisfokol/" target="_blank" title="Daftarkan Pengguna SISFOKOL">Daftarkan Pengguna SISFOKOL</a>
-</LI>
 
 <LI>
 <a href="'.$sumber.'/adm/s/reset_pass.php" title="Reset Password">Reset Password</a>
